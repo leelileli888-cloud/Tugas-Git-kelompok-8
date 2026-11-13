@@ -1,2 +1,3 @@
 Kontribusi Leli dalam project Kelompok 8.
 leli mengerjakan dokumentasi awal project
+Leli melakukan pengujian dan pemeriksaan file
